@@ -39,31 +39,31 @@ Implement unsupervised learning techniques to detect anomalies in the transactio
 
 ## Project Structure
 
-fraud_detection/
-├── data/
-│ ├── raw/
-│ ├── processed/
-├── notebooks/
-│ ├── data_preprocessing.ipynb
-│ ├── exploratory_data_analysis.ipynb
-│ ├── feature_engineering.ipynb
-│ ├── model_building.ipynb
-│ ├── anomaly_detection.ipynb
-├── models/
-│ ├── logistic_regression_model.pkl
-│ ├── decision_tree_model.pkl
-│ ├── random_forest_model.pkl
-│ ├── gradient_boosting_model.pkl
-│ ├── neural_network_model.h5
-├── src/
-│ ├── data_preprocessing.py
-│ ├── exploratory_data_analysis.py
-│ ├── feature_engineering.py
-│ ├── model_building.py
-│ ├── anomaly_detection.py
-├── README.md
-├── requirements.txt
-├── setup.py
+ - fraud_detection/
+ - ├── data/
+ - │ ├── raw/
+ - │ ├── processed/
+ - ├── notebooks/
+ - │ ├── data_preprocessing.ipynb
+ - │ ├── exploratory_data_analysis.ipynb
+ - │ ├── feature_engineering.ipynb
+ - │ ├── model_building.ipynb
+ - │ ├── anomaly_detection.ipynb
+ - ├── models/
+ - │ ├── logistic_regression_model.pkl
+ - │ ├── decision_tree_model.pkl
+ - │ ├── random_forest_model.pkl
+ - │ ├── gradient_boosting_model.pkl
+ - │ ├── neural_network_model.h5
+ - ├── src/
+ - │ ├── data_preprocessing.py
+ - │ ├── exploratory_data_analysis.py
+ - │ ├── feature_engineering.py
+ - │ ├── model_building.py
+ - │ ├── anomaly_detection.py
+ - ├── README.md
+ - ├── requirements.txt
+ - ├── setup.py
 
 ## Getting Started
 
